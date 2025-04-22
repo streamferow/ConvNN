@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ConvolutionalNN"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\apps\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ConvolutionalNN_static">
+				<Option output="/Users/ivan/CLionProjects/CNN/cmake-build-debug/libConvolutionalNN_static.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ivan/CLionProjects/CNN/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/16/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 ConvolutionalNN_static"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ConvolutionalNN_static/fast">
+				<Option output="/Users/ivan/CLionProjects/CNN/cmake-build-debug/libConvolutionalNN_static.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ivan/CLionProjects/CNN/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/16/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 ConvolutionalNN_static/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ConvolutionalNN_demo">
+				<Option output="/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps/ConvolutionalNN_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ivan/CLionProjects/CNN/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/16/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 ConvolutionalNN_demo"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ConvolutionalNN_demo/fast">
+				<Option output="/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps/ConvolutionalNN_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ivan/CLionProjects/CNN/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/16/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 ConvolutionalNN_demo/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ivan/CLionProjects/CNN/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ivan/CLionProjects/CNN/apps/main.cpp">
+			<Option target="ConvolutionalNN_demo"/>
+		</Unit>
+		<Unit filename="/Users/ivan/CLionProjects/CNN/include/Tensor/Initializers.h">
+			<Option target="ConvolutionalNN_static"/>
+		</Unit>
+		<Unit filename="/Users/ivan/CLionProjects/CNN/include/Tensor/Tensor.h">
+			<Option target="ConvolutionalNN_static"/>
+		</Unit>
+		<Unit filename="/Users/ivan/CLionProjects/CNN/source/Tensor/Initializers.cpp">
+			<Option target="ConvolutionalNN_static"/>
+		</Unit>
+		<Unit filename="/Users/ivan/CLionProjects/CNN/source/Tensor/Tensor.cpp">
+			<Option target="ConvolutionalNN_static"/>
+		</Unit>
+		<Unit filename="/Users/ivan/CLionProjects/CNN/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/ivan/CLionProjects/CNN/apps/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\apps\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

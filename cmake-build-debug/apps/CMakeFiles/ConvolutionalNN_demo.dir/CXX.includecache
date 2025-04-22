@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Tensor/Initializers.h
+vector
+-
+random
+-
+cmath
+-
+
+../include/Tensor/Tensor.h
+vector
+-
+string
+-
+functional
+-
+iostream
+-
+cassert
+-
+Initializers.h
+../include/Tensor/Initializers.h
+
+/Users/ivan/CLionProjects/CNN/apps/main.cpp
+iostream
+-
+vector
+-
+Tensor/Tensor.h
+/Users/ivan/CLionProjects/CNN/apps/Tensor/Tensor.h
+Tensor/Initializers.h
+/Users/ivan/CLionProjects/CNN/apps/Tensor/Initializers.h
+
