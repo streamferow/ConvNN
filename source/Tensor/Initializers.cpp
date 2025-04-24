@@ -18,5 +18,8 @@ namespace Initializers{
         for (size_t i = 0; i < size; i++) data[i] = distribution(gen);
     }
 
+    void ones(float* data, size_t size){
+        for (size_t i = 0; i < size; i++) data[i] = 1;
+    }
 }
 

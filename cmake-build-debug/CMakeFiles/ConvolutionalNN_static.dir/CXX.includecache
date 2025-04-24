@@ -28,6 +28,10 @@ cassert
 Initializers.h
 ../include/Tensor/Initializers.h
 
+/Users/ivan/CLionProjects/CNN/source/Tensor/Initializers.cpp
+Tensor/Initializers.h
+/Users/ivan/CLionProjects/CNN/source/Tensor/Tensor/Initializers.h
+
 /Users/ivan/CLionProjects/CNN/source/Tensor/Tensor.cpp
 Tensor/Tensor.h
 /Users/ivan/CLionProjects/CNN/source/Tensor/Tensor/Tensor.h
