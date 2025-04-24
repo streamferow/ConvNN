@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libConvolutionalNN_static.a  CMakeFiles/ConvolutionalNN_static.dir/source/Tensor/Initializers.cpp.o CMakeFiles/ConvolutionalNN_static.dir/source/Tensor/Tensor.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libConvolutionalNN_static.a
